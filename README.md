@@ -1,13 +1,13 @@
-# ReactJS From Code X Academy
-## Learn TypeScript
+# ReactJS & TailwindCSS From Code X Academy
+## Learn ReactJS & TailwindCSS
 
-This template should help get you started developing with ReactJS.
+This template should help get you started developing with ReactJS & TailwindCSS.
 
 ## How to use the files
 Each lesson has it's own branch. To see the code for a lesson, select that lesson from the branch drop-down.
 
 ## Reference
-All the course files for the ReactJS tutorial on site [Code X Academy](https://www.codex.academy/).
+All the course files for the ReactJS & TailwindCSS tutorial on site [Code X Academy](https://www.codex.academy/).
 
 ## Getting Started with Create React App
 
